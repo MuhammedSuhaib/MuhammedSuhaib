@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.npmjs.com/~muhammed_suhaib](https://www.npmjs.com/~muhammed_suhaib)
 
-- 💬 Ask me about **HTML , CSS , JAVASCRIPT**
+- 💬 Ask me about **HTML , CSS , JAVASCRIPT , NODE.JS , NEXT.JS**
 
 - experiences [https://www.linkedin.com/in/cuhaib/](https://www.linkedin.com/in/cuhaib/)
 
