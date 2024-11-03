@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammedsuhaib" alt="muhammedsuhaib" /></a> </p>
 
-- 🌱 I’m currently learning **typescript**
+- 🌱 I’m currently learning **NextJs**
 
 - 👨‍💻 All of my projects are available at [https://www.npmjs.com/~muhammed_suhaib](https://www.npmjs.com/~muhammed_suhaib)
 
-- 💬 Ask me about **HTML , CSS , JAVASCRIPT , NODE.JS , NEXT.JS**
+- 💬 Ask me about **HTML , CSS , JAVASCRIPT , NODE.JS , NEXT.JS , XML , TAILWIND CSS**
 
 - experiences [https://www.linkedin.com/in/cuhaib/](https://www.linkedin.com/in/cuhaib/)
 
