@@ -5,12 +5,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammedsuhaib" alt="muhammedsuhaib" /></a> </p>
 
 - 🌱 I’m currently learning **NextJs**
+👨‍💻 My portfolio: https://muhammedsuhaib.netlify.app/
 
-- 👨‍💻 All of my projects are available at [https://www.npmjs.com/~muhammed_suhaib](https://www.npmjs.com/~muhammed_suhaib)
+💬 Ask me about Next.js, TypeScript, Tailwind CSS, JavaScript
 
-- 💬 Ask me about **HTML , CSS , JAVASCRIPT , NODE.JS , NEXT.JS , XML , TAILWIND CSS**
-
-- experiences [https://www.linkedin.com/in/cuhaib/](https://www.linkedin.com/in/cuhaib/)
+🔗 Connect with me: https://www.linkedin.com/in/suhaib1/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedsuhaib&show_icons=true&locale=en" alt="muhammedsuhaib" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedsuhaib&" alt="muhammedsuhaib" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedsuhaib" alt="muhammedsuhaib" /></p>
