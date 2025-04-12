@@ -2,7 +2,8 @@
 
 <div align="center">
   <img src="https://github.com/MuhammedSuhaib.png" width="100" style="border-radius: 50%;" />
-  <h2 style="color:#38bdf8">𝔐𝔲𝔥𝔞𝔪𝔪𝔞𝔡 ͯś𝔲𝔥𝔞𝔦𝔟</h2>
+<h1>𝔐𝔲𝔥𝔞𝔪𝔪𝔞𝔡 ͯś𝔲𝔥𝔞𝔦𝔟</h1>
+
   <code>front-end dev • fast UIs • AI curious</code>
 </div>
 
