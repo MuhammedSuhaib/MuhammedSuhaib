@@ -1,7 +1,6 @@
 <!-- Muhammed Suhaib | @MuhammedSuhaib -->
 
-<div align="center">
-  <img src="https://github.com/MuhammedSuhaib.png" width="100" style="border-radius: 50%;" />
+<div align="center">   
 <h1>𝔐𝔲𝔥𝔞𝔪𝔪𝔞𝔡 ͯś𝔲𝔥𝔞𝔦𝔟</h1>
 
   <code>front-end dev • fast UIs • AI curious</code>
