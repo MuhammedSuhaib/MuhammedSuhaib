@@ -8,11 +8,11 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/OpenAI%20Agents%20SDK-00F5FF?style=for-the-badge&logo=openai&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GIAIC-00F5FF?style=for-the-badge&logo=googlescholar&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GIAIC-01411C?style=for-the-badge&logo=googlescholar&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI%20Agents%20SDK-000000?style=for-the-badge&logo=openai&logoColor=black"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Debian%2FLinux-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
 </div>
