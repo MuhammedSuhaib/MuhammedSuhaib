@@ -1,7 +1,7 @@
 <!-- Muhammed Suhaib | @MuhammedSuhaib | World's Coolest Profile -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Muhammed+Suhaib;%F0%9F%92%BB+Full-Stack+%7C+FastAPI+%7C+Expo;%F0%9F%A4%96+AI+Agents+%7C+Streamlit+%7C+Chainlit" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=700469&center=true&vCenter=true&width=700&lines=Muhammed+Suhaib;Full-Stack+%7C+FastAPI+%7C+Expo;AI+Agents+%7C+Streamlit+%7C+Chainlit" alt="Typing SVG" />
 </div>
 
 <br/>
