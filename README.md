@@ -7,9 +7,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuhammedSuhaib&style=for-the-badge&color=00F5FF" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/MuhammedSuhaib?style=for-the-badge&color=00F5FF&label=Followers"/>
-  <img src="https://img.shields.io/badge/Location-Karachi%2C%20Pakistan-00F5FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenAI Agents SDK-00F5FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GIAIC-00F5FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/OS-Debian%20%2F%20Linux-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
 </div>
 
