@@ -82,12 +82,12 @@ const suhaib = {
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammedSuhaib&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedSuhaib&theme=radical&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=MuhammedSuhaib&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=MuhammedSuhaib&theme=radical&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedSuhaib&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MuhammedSuhaib&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF" height="165"/>
 </div>
 
 ---
