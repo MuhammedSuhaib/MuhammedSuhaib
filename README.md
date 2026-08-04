@@ -1,7 +1,7 @@
 <!-- Muhammed Suhaib | @MuhammedSuhaib | World's Coolest Profile -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Muhammed+Suhaib;%F0%9F%92%A1+JAM-Stack+%2B+AI+Agents;%E2%9A%A1+Building+the+Future" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Muhammed+Suhaib;%F0%9F%92%BB+Full-Stack+%2B+FastAPI;%F0%9F%A4%96+AI+Agents+%26+Next.js" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -18,10 +18,12 @@
 
 ```js
 const suhaib = {
-  role: "Full-Stack + AI Developer",
-  focus: ["Next.js", "TypeScript", "Python AI Agents", "Streamlit"],
+  role: "Full-Stack Developer",
+  backend: ["FastAPI", "Python", "AI Agents"],
+  frontend: ["Next.js", "TypeScript", "Tailwind"],
+  extra: ["Streamlit", "OpenAI SDK"],
   vibe: "Ship fast. Build cool. Automate everything.",
-  currently: "Crafting AI agents & lightning-fast web apps",
+  currently: "Full-stack apps + AI agents",
   funFact: "Turns coffee into clean code ☕"
 };
 ```
@@ -31,7 +33,7 @@ const suhaib = {
 ### 🛠️ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,ts,js,react,tailwind,nodejs,python,html,css,git,github,vercel,netlify,firebase&perline=7" />
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,js,react,tailwind,nodejs,python,fastapi,html,css,git,github,vercel,netlify,firebase&perline=8" />
 </p>
 
 ---
@@ -40,14 +42,14 @@ const suhaib = {
 
 | Project | Stack | Link |
 |---------|-------|------|
-| **LevelUp Speckit+** | Python • AI | [Repo](https://github.com/MuhammedSuhaib/LevelUpSpeckit-Plus) |
+| **LevelUp Speckit+** | Python • FastAPI • AI | [Repo](https://github.com/MuhammedSuhaib/LevelUpSpeckit-Plus) |
 | **Shortify AI** | Python • HF | [Live](https://cyber-verse-Shortify-AI.hf.space) |
 | **Chat App** | Next.js • TS | [Live](https://cyberdevs.netlify.app/) |
 | **From Console to Cloud** | Python | [Live](https://console-to-cloud.netlify.app/) |
 | **Portfolio** | Next.js | [Live](https://muhammedsuhaib.netlify.app/) |
 | **Resume Builder** | HTML | [Live](https://muhammedsuhaib.github.io/Resume_Builder/) |
 | **MCP Server** | Python | [Repo](https://github.com/MuhammedSuhaib/MCP-Server) |
-| **Multi Agent** | Python | [Repo](https://github.com/MuhammedSuhaib/multi_agent) |
+| **Multi Agent** | Python • AI | [Repo](https://github.com/MuhammedSuhaib/multi_agent) |
 
 ---
 
@@ -77,5 +79,5 @@ const suhaib = {
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F5FF&height=100&section=footer"/>
-  <p><b>⚡ Built different. Code louder.</b></p>
+  <p><b>⚡ Full-Stack. FastAPI. Built different.</b></p>
 </div>
