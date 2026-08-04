@@ -1,7 +1,7 @@
 <!-- Muhammed Suhaib | @MuhammedSuhaib | World's Coolest Profile -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Muhammed+Suhaib;%F0%9F%92%BB+Full-Stack+%2B+FastAPI;%F0%9F%A4%96+AI+Agents+%26+Next.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Muhammed+Suhaib;%F0%9F%92%BB+Full-Stack+%7C+FastAPI+%7C+Expo;%F0%9F%A4%96+AI+Agents+%7C+Streamlit+%7C+Chainlit" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -10,6 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=MuhammedSuhaib&style=for-the-badge&color=00F5FF" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/MuhammedSuhaib?style=for-the-badge&color=00F5FF&label=Followers"/>
   <img src="https://img.shields.io/badge/Location-Karachi%2C%20Pakistan-00F5FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OS-Debian%20%2F%20Linux-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
 </div>
 
 ---
@@ -18,13 +19,13 @@
 
 ```js
 const suhaib = {
-  role: "Full-Stack Developer",
-  backend: ["FastAPI", "Python", "AI Agents"],
-  frontend: ["Next.js", "TypeScript", "Tailwind"],
-  extra: ["Streamlit", "OpenAI SDK"],
-  vibe: "Ship fast. Build cool. Automate everything.",
-  currently: "Full-stack apps + AI agents",
-  funFact: "Turns coffee into clean code ☕"
+  role: "Full-Stack + Mobile + AI Developer",
+  frontend: ["Next.js", "TypeScript", "Tailwind", "shadcn"],
+  backend: ["FastAPI", "Python", "Node.js", "Neon", "Firebase"],
+  mobile: ["Expo", "React Native"],
+  ai: ["OpenAI SDK", "Streamlit", "Chainlit", "Gemini", "MCP"],
+  devops: ["Docker", "Kubernetes", "Debian"],
+  vibe: "Ship fast. Build cool. Automate everything."
 };
 ```
 
@@ -32,8 +33,31 @@ const suhaib = {
 
 ### 🛠️ Tech Arsenal
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,ts,js,react,tailwind,nodejs,python,fastapi,html,css,git,github,vercel,netlify,firebase&perline=8" />
+**Frontend & Mobile**  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
+</p>
+
+**Backend & AI**  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,firebase" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chainlit-0066FF?style=for-the-badge&logo=chainlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black"/>
+</p>
+
+**DevOps & Tools**  
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge"/>
 </p>
 
 ---
@@ -43,13 +67,15 @@ const suhaib = {
 | Project | Stack | Link |
 |---------|-------|------|
 | **LevelUp Speckit+** | Python • FastAPI • AI | [Repo](https://github.com/MuhammedSuhaib/LevelUpSpeckit-Plus) |
-| **Shortify AI** | Python • HF | [Live](https://cyber-verse-Shortify-AI.hf.space) |
-| **Chat App** | Next.js • TS | [Live](https://cyberdevs.netlify.app/) |
-| **From Console to Cloud** | Python | [Live](https://console-to-cloud.netlify.app/) |
-| **Portfolio** | Next.js | [Live](https://muhammedsuhaib.netlify.app/) |
-| **Resume Builder** | HTML | [Live](https://muhammedsuhaib.github.io/Resume_Builder/) |
-| **MCP Server** | Python | [Repo](https://github.com/MuhammedSuhaib/MCP-Server) |
-| **Multi Agent** | Python • AI | [Repo](https://github.com/MuhammedSuhaib/multi_agent) |
+| **Ddsgnr Mobile** | Expo • React Native | [Repo](https://github.com/MuhammedSuhaib/DdsgnrMobile) |
+| **Shortify AI** | Streamlit • Python | [Live](https://cyber-verse-Shortify-AI.hf.space) |
+| **Chat App (PWA)** | Next.js • Firebase | [Live](https://cyberdevs.netlify.app/) |
+| **From Console to Cloud** | Python • Docker | [Live](https://console-to-cloud.netlify.app/) |
+| **Chatbot** | Python • Docker • HF | [Repo](https://github.com/MuhammedSuhaib/Chatbot) |
+| **Portfolio** | Next.js • Tailwind | [Live](https://muhammedsuhaib.netlify.app/) |
+| **MCP Server** | Python • MCP | [Repo](https://github.com/MuhammedSuhaib/MCP-Server) |
+| **Multi Agent** | Python • AI Agents | [Repo](https://github.com/MuhammedSuhaib/multi_agent) |
+| **Hekto E-Commerce** | Next.js • Sanity | [Live](https://hekkto.netlify.app/) |
 
 ---
 
@@ -72,6 +98,7 @@ const suhaib = {
   <a href="https://muhammedsuhaib.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=google-chrome&logoColor=black"/></a>
   <a href="https://www.linkedin.com/in/suhaib1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/cuhaib1"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://share.streamlit.io/user/muhammedsuhaib"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/></a>
   <a href="https://github.com/MuhammedSuhaib"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
@@ -79,5 +106,5 @@ const suhaib = {
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F5FF&height=100&section=footer"/>
-  <p><b>⚡ Full-Stack. FastAPI. Built different.</b></p>
+  <p><b>⚡ Full-Stack • Expo • FastAPI • Streamlit • Docker • Debian</b></p>
 </div>
