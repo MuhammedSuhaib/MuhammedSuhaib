@@ -1,15 +1,20 @@
 <!-- Muhammed Suhaib | @MuhammedSuhaib | World's Coolest Profile -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=700469&center=true&vCenter=true&width=700&lines=Muhammed+Suhaib;Full-Stack+%7C+FastAPI+%7C+Expo;AI+Agents+%7C+Streamlit+%7C+Chainlit" alt="Typing SVG" />
+  <h1>𝔐𝔲𝔥𝔞𝔪𝔪𝔞𝔡 ͯś𝔲𝔥𝔞𝔦𝔟</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=700469&center=true&vCenter=true&width=700&lines=Full-Stack+%7C+FastAPI+%7C+Expo;AI+Agents+%7C+Streamlit+%7C+Chainlit" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/OpenAI Agents SDK-00F5FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GIAIC-00F5FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OS-Debian%20%2F%20Linux-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI%20Agents%20SDK-00F5FF?style=for-the-badge&logo=openai&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GIAIC-00F5FF?style=for-the-badge&logo=googlescholar&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Debian%2FLinux-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
 </div>
 
 ---
