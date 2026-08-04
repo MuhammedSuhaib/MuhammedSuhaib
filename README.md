@@ -68,7 +68,7 @@ const suhaib = {
 ### 🌐 Connect
 
 <p align="center">
-  <a href="https://muhammedsuhaib.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=google-chrome&logoColor=black"/></a>
+  <a href="https://muhammedsuhaib.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge"/></a>
   <a href="https://www.linkedin.com/in/suhaib1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/cuhaib1"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://share.streamlit.io/user/muhammedsuhaib"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/></a>
