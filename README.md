@@ -30,35 +30,9 @@ const suhaib = {
 ```
 
 ---
-
 ### 🛠️ Tech Arsenal
 
-**Frontend & Mobile**  
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
-</p>
-
-**Backend & AI**  
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,firebase" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Chainlit-0066FF?style=for-the-badge&logo=chainlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black"/>
-</p>
-
-**DevOps & Tools**  
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux" />
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge"/>
-</p>
+<img width="517" height="482" alt="image-removebg-preview"  src="https://github.com/user-attachments/assets/76d43b01-1826-4cab-b806-09516f540c04" />
 
 ---
 
