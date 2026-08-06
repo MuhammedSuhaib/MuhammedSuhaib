@@ -46,10 +46,10 @@ const suhaib = {
 |---------|-------|------|
 | **LevelUp Speckit+** | Python • FastAPI • AI | [Repo](https://github.com/MuhammedSuhaib/LevelUpSpeckit-Plus) |
 | **Ddsgnr Mobile** | Expo • React Native | [Repo](https://github.com/MuhammedSuhaib/DdsgnrMobile) |
-| **Shortify AI** | Streamlit • Python | [Live](https://cyber-verse-Shortify-AI.hf.space) |
+| **Shortify AI** | Streamlit • Python | [Live](https://shortifye.netlify.app/) |
 | **Chat App (PWA)** | Next.js • Firebase | [Live](https://cyberdevs.netlify.app/) |
 | **From Console to Cloud** | Python • Docker | [Live](https://console-to-cloud.netlify.app/) |
-| **Chatbot** | Python • Docker • HF | [Repo](https://github.com/MuhammedSuhaib/Chatbot) |
+| **Chatbot** | Python • Docker • HF | [Live](https://muhammedsuhaib-giaiclinkedinposts.hf.space/) |
 | **Portfolio** | Next.js • Tailwind | [Live](https://muhammedsuhaib.netlify.app/) |
 | **MCP Server** | Python • MCP | [Repo](https://github.com/MuhammedSuhaib/MCP-Server) |
 | **Multi Agent** | Python • AI Agents | [Repo](https://github.com/MuhammedSuhaib/multi_agent) |
