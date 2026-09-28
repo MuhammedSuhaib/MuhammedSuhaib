@@ -42,18 +42,19 @@ const suhaib = {
 
 ### 🔥 Featured Projects
 
-| Project | Stack | Link |
-|---------|-------|------|
-| **LevelUp Speckit+** | Python • FastAPI • AI | [Repo](https://github.com/MuhammedSuhaib/LevelUpSpeckit-Plus) |
-| **Ddsgnr Mobile** | Expo • React Native | [Repo](https://github.com/MuhammedSuhaib/DdsgnrMobile) |
-| **Shortify AI** | Streamlit • Python | [Live](https://shortifye.netlify.app/) |
-| **Chat App (PWA)** | Next.js • Firebase | [Live](https://cyberdevs.netlify.app/) |
-| **From Console to Cloud** | Python • Docker | [Live](https://console-to-cloud.netlify.app/) |
-| **Chatbot** | Python • Docker • HF | [Live](https://muhammedsuhaib-giaiclinkedinposts.hf.space/) |
-| **Portfolio** | Next.js • Tailwind | [Live](https://muhammedsuhaib.netlify.app/) |
-| **MCP Server** | Python • MCP | [Repo](https://github.com/MuhammedSuhaib/MCP-Server) |
-| **Multi Agent** | Python • AI Agents | [Repo](https://github.com/MuhammedSuhaib/multi_agent) |
-| **Hekto E-Commerce** | Next.js • Sanity | [Live](https://hekkto.netlify.app/) |
+| Project                  | Stack                            | Link |
+|--------------------------|----------------------------------|------|
+| **AI Digital Employee**  | Python • Next.js • AI Agents     | [Repo](https://github.com/MuhammedSuhaib/ai-digital-employee) |
+| **Humanoid Robotics RAG**| FastAPI • Docusaurus • Qdrant    | [Live](https://muhammedsuhaib.github.io/Humanoid-Robotics-RAG/) |
+| **Encrypted Realtime Chat** | Next.js • Firebase • Web Crypto | [Live](https://cybertwk.netlify.app/) |
+| **Shortify AI**          | Streamlit • Python • AI          | [Live](https://shortifye.netlify.app/) |
+| **AI Chatbot**           | Python • Gemini • OpenAI         | [Live](https://muhammedsuhaib-giaiclinkedinposts.hf.space/) |
+| **Ping Cold Starts**     | React • GitHub Actions • Netlify | [Live](https://ping-cold-starts.netlify.app/) |
+| **Multi Agent**          | Python • AI Agents               | [Repo](https://github.com/MuhammedSuhaib/multi_agent) |
+| **MCP Server**           | Python • MCP                     | [Repo](https://github.com/MuhammedSuhaib/MCP-Server) |
+| **Hekto E-Commerce**     | Next.js • Sanity                 | [Live](https://hekkto.netlify.app/) |
+| **Ddsgnr Mobile**        | Expo • React Native              | [Repo](https://github.com/MuhammedSuhaib/DdsgnrMobile) |
+| **Portfolio**            | Next.js • Tailwind               | [Live](https://muhammedsuhaib.netlify.app/) |
 
 ---
 
